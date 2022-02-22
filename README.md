@@ -21,13 +21,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <p><strong>Bachelor of Science</strong> Business Administration/Business Management<br />
 <a href="https://www.wgu.edu/">Western Governors University</a> - Salt Lake City, Utah, USA <em>(Jul 2020)</em></p>
-<br /><br /></p>
+<br /><br />
 
 <h2 id="-certifications">📃 Certifications</h2>
 
 <p><strong>Google Project Management Professional</strong> @ <a href="https://dev.to/">Coursera</a> <em>(Feb 2022)</em> <br /></p>
 
-<p><strong>Search Engine Optimization</strong> @ <a href="https://app.hubspot.com/academy/achievements/2h1k2t1f/en/1/ch-frick/seo">Hubspot Academy</a> <em>(Oct 2021)</em> <br /></p>
+<p><strong>Search Engine Optimization</strong> @ <a href="https://app.hubspot.com/academy/achievements/2h1k2t1f/en/1/ch-frick/seo">Hubspot Academy</a> <em>(Oct 2021)</em> 
+<br /><br />
 
 <p><strong>Six Sigma Yellow Belt</strong> @ <a href="https://6sigmastudy.com/">6sigmastudy</a> <em>(Oct 2021)</em> <br /></p>
 
@@ -40,14 +41,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p><strong>Teaching English as a Foreign Language (TEFL) - 160 Hour</strong> @ <a href="https://www.teflfullcircle.com">TEFL Fullcircle</a> <em>(Apr 2018)</em> <br /></p>
 
 <p><strong>Teaching English to Speakers of Other Languages (TESOL) - 120 Hour</strong> @ <a href="https://internationalopenacademy.com">International Open Academy</a> <em>(Apr 2018)</em> <br /></p>
-<br /><br /></p>
+<br /><br />
 
 <h2 id="-languages">💬 Languages</h2>
 
 <p><strong>English</strong>: Native <br />
 <strong>Portuguese</strong>: A2 <br />
 <strong>German</strong>: A1
-<br /><br /></p>
+<br /><br />
 
 
 ### Markdown
