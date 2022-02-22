@@ -4,12 +4,14 @@
 
 <p><a href="mailto:cj@cjfrick.com">Email</a> / <a href="https://cjfrick.com/">Website</a> / <a href="https://www.linkedin.com/in/cjfrick/">LinkedIn</a></p>
 
-<h2 id="professional-experience">💻 Professional Experience</h2>
+<h2 id="-professional-experience">💻 Professional Experience</h2>
 
 You can use the [editor on GitHub](https://github.com/cjfcodes/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<h2 id="-education">🧑‍🎓 Education</h2>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
