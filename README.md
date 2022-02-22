@@ -27,8 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <p><strong>Google Project Management Professional</strong> @ <a href="https://dev.to/">Coursera</a> <em>(Feb 2022)</em> <br /></p>
 
-<p><strong>Search Engine Optimization</strong> @ <a href="https://app.hubspot.com/academy/achievements/2h1k2t1f/en/1/ch-frick/seo">Hubspot Academy</a> <em>(Oct 2021)</em> 
-<br /><br />
+<p><strong>Search Engine Optimization</strong> @ <a href="https://app.hubspot.com/academy/achievements/2h1k2t1f/en/1/ch-frick/seo">Hubspot Academy</a> <em>(Oct 2021)</em> <br /></p>
 
 <p><strong>Six Sigma Yellow Belt</strong> @ <a href="https://6sigmastudy.com/">6sigmastudy</a> <em>(Oct 2021)</em> <br /></p>
 
