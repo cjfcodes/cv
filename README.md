@@ -1,4 +1,10 @@
-## CJ Frick
+<h1 id="cj-frick">CJ Frick</h1>
+
+<p><em>Product Manager / Business Process Analyst / Growth Strategy Consultant. <br />I help companies optimize resources so they can maximize revenue and reduce cost.</em> <br /></p>
+
+<p><a href="mailto:cj@cjfrick.com">Email</a> / <a href="https://cjfrick.com/">Website</a> / <a href="https://www.linkedin.com/in/cjfrick/">LinkedIn</a></p>
+
+<h2 id="professional-experience">💻 Professional Experience</h2>
 
 You can use the [editor on GitHub](https://github.com/cjfcodes/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
