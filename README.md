@@ -21,7 +21,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <p><strong>Bachelor of Science</strong> Business Administration/Business Management<br />
 <a href="https://www.wgu.edu/">Western Governors University</a> - Salt Lake City, Utah, USA <em>(Jul 2020)</em></p>
-<br /><br />
 
 <h2 id="-certifications">📃 Certifications</h2>
 
@@ -40,14 +39,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p><strong>Teaching English as a Foreign Language (TEFL) - 160 Hour</strong> @ <a href="https://www.teflfullcircle.com">TEFL Fullcircle</a> <em>(Apr 2018)</em> <br /></p>
 
 <p><strong>Teaching English to Speakers of Other Languages (TESOL) - 120 Hour</strong> @ <a href="https://internationalopenacademy.com">International Open Academy</a> <em>(Apr 2018)</em> <br /></p>
-<br /><br />
 
 <h2 id="-languages">💬 Languages</h2>
 
 <p><strong>English</strong>: Native <br />
 <strong>Portuguese</strong>: A2 <br />
 <strong>German</strong>: A1
-<br /><br />
 
 
 ### Markdown
