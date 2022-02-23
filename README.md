@@ -79,6 +79,26 @@ Managed daily lead flow, CRM, drip campaigns, retention programs, and phone syst
 
 <p><strong>Teaching English to Speakers of Other Languages (TESOL) - 120 Hour</strong> @ <a href="https://internationalopenacademy.com">International Open Academy</a> <em>(Apr 2018)</em> <br /><br /></p>
 
+
+<h2 id="-additional-experience">🖇️ Additional Experience</h2>
+
+<p><strong>Volunteer Service</strong> @ <a href="https://sxsw.com">South by Southwest</a> <em>(2011 – 2016)</em> <br />
+</p>
+<ul>
+  <li>Managed event setup, security, brand liaison communications, and VIP safety</li>
+  <li>Optimized queue management and task organization</li>
+  <li>Selected as team lead for high priority events
+<br /><br /></li>
+</ul>
+
+<p><strong>Military Service</strong> @ <a href="https://www.massnationalguard.org/">Massachusetts Army National Guard</a> <em>(2001 – 2003)</em> <br />
+</p>
+<ul>
+  <li>Selected for advanced security clearance and Officer Candidate School</li>
+  <li>Served as squad leader for special missions
+<br /><br /></li>
+</ul>
+
 <h2 id="-languages">💬 Languages</h2>
 
 <p><strong>English</strong>: Native <br />
