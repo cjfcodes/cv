@@ -1,6 +1,6 @@
 <h1 id="cj-frick">CJ Frick</h1>
 
-<p><em>Product Manager / Business Process Analyst / Growth Strategy Consultant. </em> <br /></p>
+<p><em>Product Manager / Business Process Analyst / Growth Strategy Consultant </em> <br /></p>
 
 <p><a href="mailto:cj@cjfrick.com">📧 cj@cjfrick.com</a><br /><a href="https://cjfrick.com/">🔗 cjfrick.com</a><br /><a href="https://www.linkedin.com/in/cjfrick/">💼 LinkedIn</a><br /><br /></p>
 
