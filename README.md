@@ -13,7 +13,7 @@ Manage client projects including web development; copywriting and editing; marke
   <li>Build and manage websites and social media campaigns</li>
   <li>Develop media and fundraising campaigns including newspaper, web content, and Facebook</li>
   <li>Manage Facebook and Google ad campaigns for e-com, Print on Demand/Amazon Merch and KDP</li>
-  <li><strong><em>Technologies used:</em></strong> HTML, CSS, Wordpress, Shopify, Canva, Google Analytics, Google Ads, Facebook Business, Trello
+  <li><strong><em>Technologies used:</em></strong> HTML, CSS, Wordpress, PHP, Shopify, Canva, Google Analytics, Google Ads, Facebook Business, Trello, Jira, Excel
 <br /><br /></li>
 </ul>
 
@@ -24,7 +24,7 @@ Managed 5-person cross-functional team responsible for company-wide IT, software
   <li>💰 Reduced $10,000+ in annual expenditures by eliminating duplicative and wasteful expenses</li>
   <li>Designed and deployed company-wide knowledge base and training portal</li>
   <li>🏆 Awarded Employee of the Quarter Q3 2015</li>
-  <li><strong><em>Technologies used:</em></strong> Jira, Google Analytics, MySQL, PHP, React, Node.js, Balsamiq
+  <li><strong><em>Technologies used:</em></strong> Jira, Google Analytics, MySQL, PHP, React, Node.js, Balsamiq, HighCharts
 <br /><br /></li>
 </ul>
 
