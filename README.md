@@ -107,26 +107,23 @@ Managed daily lead flow, CRM, drip campaigns, retention programs, and phone syst
 
 <h2 id="-tech-stack">🧰 Technology Stack</h2>
 
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=003B57&logoColor=white) 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&color=003B57&logoColor=white) 
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=003B57&logoColor=white)<br />
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&color=003B57&logoColor=white)<br />
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/PHPStorm-informational?style=flat&logo=phpstorm&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&color=003B57&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Excel-informational?style=flat&logo=microsoft-excel&color=003B57&logoColor=white)
-
-<br /><br />
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=267CB9&logoColor=white) 
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&color=267CB9&logoColor=white) 
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=267CB9&logoColor=white)<br />
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&color=267CB9&logoColor=white)<br />
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/PHPStorm-informational?style=flat&logo=phpstorm&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&color=267CB9&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-informational?style=flat&logo=microsoft-excel&color=267CB9&logoColor=white)
 
 <h2 id="-learning">🌱 Currently Learning</h2>
 
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=267CB9&logoColor=white)
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=003B57&logoColor=white)
-
-<br /><br />
+<br />
