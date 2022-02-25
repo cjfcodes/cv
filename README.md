@@ -126,8 +126,7 @@ Managed daily lead flow, CRM, drip campaigns, retention programs, and phone syst
 
 <h2 id="-learning">🌱 Currently Learning</h2>
 
-<p>
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=003B57&logoColor=white)
 
-  <br /><br /></p>
+<br /><br />
