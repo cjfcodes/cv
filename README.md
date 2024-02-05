@@ -72,6 +72,10 @@ Managed daily lead flow, CRM, drip campaigns, retention programs, and phone syst
 
 <h2 id="-certifications">📃 Certifications</h2>
 
+<p><strong>CompTIA A+ ce</strong> @ <a href="https://www.credly.com/badges/38619f3d-856e-426c-a0e4-8b0048a5c3de">CompTIA</a><br /></p>
+
+<p><strong>ITIL 4</strong> @ <a href="https://axelos.com">Axelos</a><br /></p>
+
 <p><strong>Google Project Management Professional</strong> @ <a href="https://coursera.com">Coursera</a><br /></p>
 
 <p><strong>Search Engine Optimization</strong> @ <a href="https://app.hubspot.com/academy/achievements/2h1k2t1f/en/1/ch-frick/seo">Hubspot Academy</a><br /></p>
